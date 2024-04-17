@@ -1,0 +1,7 @@
+.ds4 .stick {
+    position: absolute;
+    -webkit-mask: url(https://raw.githubusercontent.com/darkager/gpv/main/sticks2.png);
+    height: 94px;
+    width: 94px;
+    background-color: rgba(255, 255, 255, .5);
+}
